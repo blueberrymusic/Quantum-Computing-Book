@@ -13,7 +13,7 @@ A book of this size will inevitably have errors.
 For each error I'm aware of, I'll
 describe it
 (along with a credit to the person who found it) in
-the `Errata` folder
+the `Errata`. Click it above,
 or just [click here](https://github.com/blueberrymusic/Quantum-Computing-Book/blob/main/QC%20book%20errata.pdf).
 
 
